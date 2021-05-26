@@ -11,3 +11,5 @@ Réaliser les molécules et organismes suivants :
 *   Une section "présentation ressource" qui sera grossomodo la section qui présente le show de n'importe quelle ressource
 *   Une section qui présente un élément (à gauche du texte, à droite une image)
 *   Un organisme de ton choix
+
+Bootswatch : FLATLY
